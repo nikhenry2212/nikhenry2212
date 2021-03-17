@@ -16,6 +16,7 @@
 - 🚀 Atualmente estudo Análise em Desenvolvimento de Sistemas
 - 🎯 Foco em tecnologias que envolvam Javascript === React, Angular, Node...
 - 🎨 Não domino, mas tenho uma afeição por Front-end.
+- 💻Technical Developer - Wipro Limited
 
 <hr>
 
