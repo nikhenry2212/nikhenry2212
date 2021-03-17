@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **nikhenry2212/nikhenry2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -13,7 +12,7 @@
 
 &nbsp;
  
-- 👨‍💻 Encontre me   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikolas-prudente-guedes-97b14612b/) ![Instagram Badge](https://img.shields.io/badge/-Instagram-wine?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nikolas.pguedes/)
+- 👨‍💻 Encontre me   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikolas-prudente-guedes-97b14612b/)](https://www.linkedin.com/in/nikolas-prudente-guedes-97b14612b/)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-wine?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/nikolas.pguedes/)
 - 🚀 Atualmente estudo Análise em Desenvolvimento de Sistemas
 - 🎯 Foco em tecnologias que envolvam Javascript === React, Angular, Node...
 - 🎨 Não domino, mas tenho uma afeição por Front-end.
