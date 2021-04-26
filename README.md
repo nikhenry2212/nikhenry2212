@@ -22,7 +22,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nikhenry2212&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nikhenry2212&theme=nord&column=7)](https://github.com/nikhenry2212/github-profile-trophy)
 
 &nbsp;
 
