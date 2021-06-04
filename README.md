@@ -26,11 +26,14 @@
 
 &nbsp;
 
+
 ![](https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s1280x1920/867979c9a1d803b0d13ff8cdc7393fcf33c84511.gifv)
-</p>
-<div>
+
       
-              ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div      
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+</p>
+
+  
 
  
